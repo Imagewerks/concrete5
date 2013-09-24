@@ -1,5 +1,6 @@
 <?php defined('C5_EXECUTE') or die('Access Denied.'); $this->inc('elements/header.php'); ?>
 
+This is the default page. 
 <div class="container">
     <div class="row">
         <div class="span3">
